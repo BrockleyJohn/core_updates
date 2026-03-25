@@ -1,13 +1,13 @@
 <?php
 
     $this_upgrade = [
-        'title'    => 'Updating Phoenix Cart 1.0.9.0 to 1.0.9.1',
-        'requires' => '1.0.9.0',
+        'title'    => 'Updating Phoenix Cart 1.0.9.1 to 1.0.9.2',
+        'requires' => '1.0.9.1',
         'delete'   => [],
         'disable'  => [],
         'enable'   => [],
         'sql'      => [],
-        'notes'    => 'This is the 1.0.9.1 release, the first in the 1.0.9.* optimisation series.',
+        'notes'    => 'This is the 1.0.9.2 release, continuing the 1.0.9.* optimisation series.',
     ];
 
     $version_dir = __DIR__;
