@@ -2,7 +2,7 @@
     "required_modules_remove": [],
     "required_modules_install": [],
     "optional_modules_install": [
-        "includes/modules/content/account/cm_gdpr_nuke.php",
+        "includes/modules/content/account/cm_account_gdpr_nuke.php",
         "includes/modules/content/gdpr/cm_gdpr_acceptance_data.php",
         "includes/modules/content/gdpr/cm_gdpr_cart.php",
         "includes/modules/content/gdpr/cm_gdpr_cookies.php",
