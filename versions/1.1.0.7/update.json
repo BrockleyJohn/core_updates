@@ -1,0 +1,18 @@
+{
+    "required_modules_remove": [],
+    "required_modules_install": [
+        "includes/modules/content/advanced_search_result/cm_asr_search_result.php",
+        "includes/modules/content/advanced_search_result/cm_asr_title.php"
+    ],
+    "optional_modules_install": [],
+    "optional_files_delete": [],
+    "required_files_delete": [
+        "admin/includes/actions/action_recorder/infoboxes/default.php",
+        "admin/includes/languages/english/modules/boxes/catalog_reviews.php",
+        "admin/includes/languages/english/modules/boxes/catalog_testimonials.php",
+        "admin/includes/boxes/catalog_reviews.php",
+        "admin/includes/boxes/catalog_testimonials.php"
+    ],
+    "required_folders_delete": [
+    ]
+}
